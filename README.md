@@ -166,6 +166,9 @@ I use Optuna to perform a wide search of hyperparameter values, using the follow
 
 The LGBM model provide us with calculated feature importance statistics after training. The results are presented below.
 
+<img width="729" height="455" alt="output" src="https://github.com/user-attachments/assets/2f4cc5bd-384f-43c3-ba33-e42842652395" />
+<img width="784" height="940" alt="output" src="https://github.com/user-attachments/assets/649f9ceb-b3cd-4fd3-87f3-cac9b4e7488b" />
+
 These plots confirm our intuition about certain features being useful (average sales per product, weeks since last discount, sales of most recent past week).
 
 ## Creation of the Final Model and Predictions
