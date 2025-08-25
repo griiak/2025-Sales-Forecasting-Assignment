@@ -1,5 +1,3 @@
-# 2025-Sales-Forecasting-Assignment
-
 # Sales-Forecasting-Assignment
 
 This is my solution to an example sales forecasting problem, using anonymized data from a real-world online retailer.
